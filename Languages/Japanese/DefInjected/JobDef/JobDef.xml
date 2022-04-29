@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IdleJob_TakeNap.reportString>昼寝中</IdleJob_TakeNap.reportString>
+  <IdleJob_MendItem.reportString>TargetAを修復中</IdleJob_MendItem.reportString>
+  <IdleJob_WatchResearch.reportString>TargetAの研究の様子を見ている</IdleJob_WatchResearch.reportString>
+  <IdleJob_WatchWorking.reportString>TargetAの働きぶりを見ている</IdleJob_WatchWorking.reportString>
+  <IdleJob_ObservingAnimal.reportString>TargetAを観察中</IdleJob_ObservingAnimal.reportString>
+  <IdleJob_MessingAround.reportString>ぼんやり座っている</IdleJob_MessingAround.reportString>
+  <IdleJob_LookAroundRoom.reportString>TargetAの部屋を見渡している's room.</IdleJob_LookAroundRoom.reportString>
+  <IdleJob_PracticeMelee.reportString>TargetAで練習中</IdleJob_PracticeMelee.reportString>
+  <IdleJob_ThrowingStone.reportString>小石を投げている</IdleJob_ThrowingStone.reportString>
+  <IdleJob_Graffiti.reportString>地面に落書き中</IdleJob_Graffiti.reportString>
+  <IdleJob_CleaningGun.reportString>TargetAを手入れ中</IdleJob_CleaningGun.reportString>
+  <IdleJob_Gardening.reportString>TargetAの作物を観察中</IdleJob_Gardening.reportString>
+  <IdleJob_Gardening.reportStringA>TargetA周辺の雑草を抜いている</IdleJob_Gardening.reportStringA>
+  <IdleJob_Gardening.reportStringB>TargetA周辺の虫を捕まえている</IdleJob_Gardening.reportStringB>
+  <IdleJob_Thinking.reportString>TargetAとの出来事に思いを馳せている.</IdleJob_Thinking.reportString>
+
+</LanguageData>

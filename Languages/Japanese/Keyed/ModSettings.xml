@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DSFI_ConfigWanderMultiplier>うろつきに対する掛け率</DSFI_ConfigWanderMultiplier>
+  <DSFI_TT_ConfigWanderMultiplier>特に行動を伴わずうろうろするときの掛け率です。これを下げると入植者は何かしらの行動をもっと取ろうとします。</DSFI_TT_ConfigWanderMultiplier>
+
+  <DSFI_SpendingTimeMultiplier>使用時間の掛け率</DSFI_SpendingTimeMultiplier>
+  <DSFI_TT_SpendingTimeMultiplier>何かやろうとする時間に対する掛け率です。これを下げると入植者のだらける時間が増えます。
+  拠点の入植者数が多い場合、この数値を上げるのがお勧めです。</DSFI_TT_SpendingTimeMultiplier>
+
+  <DSFI_ConfigWanderMovePolicy>うろつく方法</DSFI_ConfigWanderMovePolicy>
+  <DSFI_ConfigWanderMovePolicy_Walk>散歩</DSFI_ConfigWanderMovePolicy_Walk>
+  <DSFI_ConfigWanderMovePolicy_Run>ランニング</DSFI_ConfigWanderMovePolicy_Run>
+
+</LanguageData>

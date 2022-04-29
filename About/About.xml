@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+    <name>Do Something For Idle 日本語化</name>
+    <author>Djur</author>
+    <packageId>Djur.DS4I.JP</packageId>
+    <supportedVersions>
+        <li>1.0</li>
+        <li>1.1</li>
+        <li>1.2</li>
+        <li>1.3</li>
+    </supportedVersions>
+    <url>steam://url/CommunityFilePage/XXXXXXXXX</url>
+    <description><![CDATA[<color=#bae8e8>Do Something For Idle</color> を日本語化するModです｡
+単体では機能しません。本体も導入する必要があります｡
+MODリストでは <color=#bae8e8>Do Something For Idle</color> よりも下に配置してください。
+ ]]></description>
+
+    <modDependencies>
+        <li>
+            <packageId>gguake.ai.dsfi</packageId>
+            <displayName>Do Something For Idle</displayName>
+            <downloadUrl></downloadUrl>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/1896806569</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+
+    <loadAfter>
+        <li>gguake.ai.dsfi</li>
+    </loadAfter>
+
+</ModMetaData>
